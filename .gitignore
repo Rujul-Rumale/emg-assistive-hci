@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Logs / data
+*.csv
+*.log
+emg_log.csv
+
+# Arduino
+*.hex
+*.elf
+build/
+.build/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# LibreOffice locks
+.~lock.*#
