@@ -5,7 +5,7 @@ assistive interface built with two EMG sensors and an RP2040 microcontroller.
 
 Signals and Systems — Project Based Learning, Department of ECE, Anurag University.
 
-**Team:** Rujul Rajeev Rumale (23EG104B51) · G. Sai Vignesh (23EG104B49)
+**Team:** Rujul Rajeev Rumale · G. Sai Vignesh
 **Supervisor:** Dr. Raghu Indrakanti, Assistant Professor, Dept. of ECE
 
 This repo recovers and organises the two surviving project documents
