@@ -210,4 +210,4 @@ MIT — see [LICENSE](LICENSE). Coursework prototype, not a medical device.
 
 ---
 
-![Views](https://komarev.com/ghpvc/?username=Rujul-Rumale&repo=emg-assistive-hci&label=Views&color=0e75b6)
+![Views](https://hits.sh/github.com/Rujul-Rumale/emg-assistive-hci.svg?style=flat-square&label=views&color=0e75b6&labelColor=555)
